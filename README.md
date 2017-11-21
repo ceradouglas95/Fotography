@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head><h1>About Cera's Fotography</h1></head>
-  <head><a href=><h4>View Image Site</h4></head>
+  <head><a href=https://github.com/ceradouglas95/Fotography/blob/master/Cera's%20Images><h4>View Image Site</h4></head>
   <div>
   <body>
   <p><h3>Cera's Fotography Statement</h3></p>
